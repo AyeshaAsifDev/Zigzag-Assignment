@@ -1,0 +1,112 @@
+body {
+    margin: 0px;
+    font-family:sans-serif ;
+ background-color:rgb(114, 60, 16);
+    font-size: 15px;
+}
+.section1{
+    background-color: rgb(141, 84, 38);
+    display: flex;
+    border: 3px solid black;
+    justify-content: space-between;
+    padding: 40px;
+    width: 60%;
+    margin: 2rem auto;
+    
+}
+.section1 img{
+         border: 3px solid blaCK;
+         margin-left: 60px;
+}
+.section1 h1{
+    margin: 0;
+    padding-left: 150px;
+    border: 3px solid black;
+     background-color:rgb(204, 173, 152);
+    color: black;
+}
+.section1 p{
+    margin-right: 15px; 
+}
+
+.section2{
+    background-color: rgb(141, 84, 38);
+    border: 3px solid black;
+   height: 260px;
+    padding: 40px;
+    width: 60%;
+    margin: 2rem auto; 
+}
+.section2 img{
+    border: 3px solid blaCK;
+    margin-top: -50px;
+}
+.section2 h1{
+    margin: 0;
+    margin-bottom: 6px;
+    margin-left: 190px;
+    padding-left: 150px;
+    border: 3px solid black;
+    background-color: rgb(204, 173, 152);
+    color: black;
+}
+.section2 p{
+    margin-right:15px;
+    margin-left: 25px;
+   text-align: left; 
+   padding-left:170px;
+}
+.section3{
+    background-color: rgb(141, 84, 38);
+    display: flex;
+    border: 3px solid black;
+    justify-content: space-between;
+    padding: 40px;
+    width: 60%;
+    margin: 2rem auto;
+}
+.section3 img{
+ border: 3px solid blaCK;
+ margin-left: 60px;
+}
+.section3 h1{
+    margin: 0;
+    padding-left: 150px;
+    border: 3px solid black;
+    background-color:rgb(204, 173, 152);
+    color: black;
+}
+.section3 p{
+    margin-right: 15px;
+}
+
+
+
+
+.section4{
+    background-color: rgb(141, 84, 38);
+    border: 3px solid black;
+   height: 260px;
+    padding: 40px;
+    width: 60%;
+    margin: 2rem auto; 
+}
+.section4 img{
+    border: 3px solid blaCK;
+    margin-top: -50px;
+}
+.section4 h1{
+    margin: 0;
+    margin-bottom: 6px;
+    margin-left: 220px;
+    padding-left: 150px;
+    border: 3px solid black;
+    background-color: rgb(204, 173, 152);
+    color: black;
+}
+.section4 p{
+    margin-right:15px;
+    margin-left: 42px;
+   text-align: left; 
+   padding-left:170px;
+}
